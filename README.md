@@ -8,6 +8,7 @@ I created a basic template in Wordpress to help developers in their first steps.
 * header.php
 * front-page.php
 * footer.php
+* home.php - it rendes the blog
 
 * functions.php
 
@@ -29,6 +30,17 @@ It has 1 header, 5 sections, main (flow), and 5 sections. You can add special co
 
 It has 1 block with 3 columns, links and menu
 
-##
+## home.php
+
+It has 1 header and 2 sections called top1, top2. You can add special code to each section in Wordpress.
+
+## functions.php 
+
+It helps to import the CSS, FONTS, and JavaScripts. Also it helps you to add the variables that you want into the template. 
+
+The function my_widgets_init() helps you to add the sections in the widgets sections in Wordpress
+
+
+
 
 
