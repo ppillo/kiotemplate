@@ -3,6 +3,12 @@ Wordpress template
 
 I created a basic template in Wordpress to help developers in their first steps. 
 
+After the instalation of WordPress in your server add this folder to the directory:
+
+/wp-content/themes/
+
+Choise this template and done, enjoy. 
+
 ## Wordpress structure:
 
 * header.php
