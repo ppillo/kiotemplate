@@ -1,0 +1,60 @@
+
+.txt_nonebold{font-weight: 400;}
+.txt_semibold{font-weight: 600;}
+.txt_bold{font-weight: 700;}
+
+/* section3
+-------------------------------------------------- */
+
+.quote{
+    margin-top: 100px;
+    margin-left: 20px;
+    font-size: 27px;	
+}
+.quote_person{
+    margin: 20px auto;
+	text-align: right;
+	font-size: 24px;
+}
+
+
+/* section4
+-------------------------------------------------- */
+.list_services{
+	list-style: none;
+    padding: 20px 0;
+}
+
+.list_services li{
+	margin-bottom: 15px;
+    margin-top: 20px;
+    font-size: 20px;
+    border-bottom: 1px solid #fff;
+    padding-bottom: 10px;
+    color: #504c4c;
+}
+
+.btn-services{
+	color: #e3ded9;
+	background-color:#be1e2d;
+	font-size: 20px;
+}
+
+.btn-services:hover,
+.btn-services:active{
+	color: #e3ded9!important;
+	font-weight: bold;
+	background-color:#bf4554;
+}
+
+.txt_video{
+	font-size: 18px;
+    padding: 30px 0;
+    color: #504c4c;
+}
+
+/* footer
+-------------------------------------------------- */
+.titleWhite{
+	color:#e3ded9!important
+}
